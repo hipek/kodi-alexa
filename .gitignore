@@ -85,3 +85,4 @@ run.sh
 
 zappa_settings.json
 templates.yaml
+tmp/
